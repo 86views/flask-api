@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 env:
-  DOCKER_IMAGE:oluleye/flask-api
+ DOCKER_IMAGE: oluleye/flask-api
   
 jobs:
   test:
